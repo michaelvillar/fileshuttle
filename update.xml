@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>FileShuttle Updates</title>
+      <link>http://updates.getfileshuttle.com/update.xml</link>
+      <description>Most recent changes with links to updates.</description>
+      <language>en</language>      
+         <item>
+            <title>Version 2.1 (2 bugs fixed; 3 new features)</title>
+
+			<description><![CDATA[
+				<h2>FileShuttle is now Open Source!</h2>
+				<h3>Changes</h3>
+				<h3>2.1</h3>
+				<ul>
+  					<li><strong>Bugfix</strong> - Auto Screenshot Uploads on Mountain Lion (10.8).</li>
+  					<li><strong>Bugfix</strong> - Generated zip files (from app uploads or multiple files) now upload with the correct permissions.</li>
+  					<li><strong>New Feature</strong> - You can now choose the file name given when uploaded from within the preferences pane.</li>
+  					<li><strong>New Feature</strong> - Sparkle Updater Engine added for automatic updates in future.</li>
+    				<li><strong>New Feature</strong> - Retina Menubar Icons</li>
+				</ul>
+			]]>
+			</description>
+            <pubDate>Sat, 09 Feb 2013 11:30:11 +0000</pubDate>
+            <enclosure url="http://updates.fileshuttle.com/fileshuttle-2.1.zip"
+				sparkle:version="5"
+				sparkle:shortVersionString="2.1"
+				length="2459732"
+				type="application/zip"
+				sparkle:dsaSignature="MC0CFB+MywHiIcs0dficoKvzpRAwG932AhUAsXdNWRaqVRHugbuAFzxvewhtjHg=" />
+         </item>
+   </channel>
+</rss>
